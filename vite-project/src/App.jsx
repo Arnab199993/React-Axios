@@ -84,4 +84,3 @@ export default class FetchData extends React.Component {
     );
   }
 }
-
